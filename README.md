@@ -13,7 +13,11 @@ Eu sou o Daniel, e atualmente estou em transição de carreira de um ex-promotor
 
 ### 🤝 Vamos conectar!
 
-- [LinkedIn](https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danielmoraes2024))
-- [Instagram](https://www.instagram.com/danmorae.s/)
-- [Portfolio](https://seu-portfolio.com)
+- <a href="https://www.instagram.com/danmorae.s/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+   </a>
+-  <a href="www.linkedin.com/in/danielmoraes2024">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
 
+ <!--[Portfolio](https://seu-portfolio.com) -->
