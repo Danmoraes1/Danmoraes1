@@ -14,5 +14,6 @@ Eu sou o Daniel, e atualmente estou em transição de carreira de um ex-promotor
 ### 🤝 Vamos conectar!
 
 - [LinkedIn](https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danielmoraes2024))
+- [Instagram](https://www.instagram.com/danmorae.s/)
 - [Portfolio](https://seu-portfolio.com)
 
