@@ -4,6 +4,8 @@ Eu sou o Daniel, e atualmente estou em transição de carreira de um ex-promotor
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html5"> Como linguagem de marcação
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3"> Para estilizar e dar responsividade.
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3"> Para estilizar e dar responsividade.
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3"> Para estilizar e dar responsividade.
 
 ### E estou iniciando os estudo em: 
 
