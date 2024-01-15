@@ -13,7 +13,7 @@ Eu sou o Daniel, e atualmente estou em transição de carreira de um ex-promotor
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"> (Em andamento)
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-nodejs"> (Futuro)
 
-### 🤝 Vamos conectar ?
+### 🤝 Vamos nos conectar ?
 
 - <a href="https://www.instagram.com/danmorae.s/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
