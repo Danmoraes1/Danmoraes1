@@ -21,6 +21,8 @@ Eu sou o Daniel, e atualmente estou em transição de carreira de um ex-promotor
 -  <a href="https://www.linkedin.com/in/danielmoraes2022/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
    </a>
+
+
  <!--[Portfolio](https://seu-portfolio.com) -->
 
 
